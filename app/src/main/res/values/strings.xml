@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TicTac Toe App</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="jogovelha">Jogo da Velha</string>
+    <string name="player1">Player 1 C</string>
+    <string name="player2">Player 2 V</string>
+    <string name="placar">Placar:</string>
+
+
+
+</resources>
