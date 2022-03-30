@@ -3,9 +3,11 @@
     <string name="action_settings">Settings</string>
 
     <string name="jogovelha">Jogo da Velha</string>
-    <string name="player1">Player 1 C</string>
-    <string name="player2">Player 2 V</string>
+    <string name="player1">Player X</string>
+    <string name="player2">Player O</string>
     <string name="placar">Placar:</string>
+    <string name="venceu">Parabéns Você ganhou !!! :p </string>
+    <string name="velha"> DEU VELHA !!! :(</string>
 
 
 
